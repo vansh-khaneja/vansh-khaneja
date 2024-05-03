@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vansh Khaneja</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning project to analyze lab reports**
+- 🔭 I’m currently working on **Images Deblurring using GANs**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Generative Adversal Networks**
 
 - 📫 How to reach me **vanshkhaneja2004@gmail.com**
 
